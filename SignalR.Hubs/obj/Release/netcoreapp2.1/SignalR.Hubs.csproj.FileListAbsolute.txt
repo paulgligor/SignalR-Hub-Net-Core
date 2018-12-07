@@ -1,0 +1,11 @@
+E:\Paul\Github\example-project-signalr-hub\SignalR.Hubs\bin\Release\netcoreapp2.1\SignalR.Hubs.deps.json
+E:\Paul\Github\example-project-signalr-hub\SignalR.Hubs\bin\Release\netcoreapp2.1\SignalR.Hubs.dll
+E:\Paul\Github\example-project-signalr-hub\SignalR.Hubs\bin\Release\netcoreapp2.1\SignalR.Hubs.pdb
+E:\Paul\Github\example-project-signalr-hub\SignalR.Hubs\bin\Release\netcoreapp2.1\Microsoft.AspNetCore.SignalR.Core.dll
+E:\Paul\Github\example-project-signalr-hub\SignalR.Hubs\bin\Release\netcoreapp2.1\Microsoft.AspNetCore.SignalR.Core.xml
+E:\Paul\Github\example-project-signalr-hub\SignalR.Hubs\obj\Release\netcoreapp2.1\SignalR.Hubs.csprojResolveAssemblyReference.cache
+E:\Paul\Github\example-project-signalr-hub\SignalR.Hubs\obj\Release\netcoreapp2.1\SignalR.Hubs.csproj.CoreCompileInputs.cache
+E:\Paul\Github\example-project-signalr-hub\SignalR.Hubs\obj\Release\netcoreapp2.1\SignalR.Hubs.AssemblyInfoInputs.cache
+E:\Paul\Github\example-project-signalr-hub\SignalR.Hubs\obj\Release\netcoreapp2.1\SignalR.Hubs.AssemblyInfo.cs
+E:\Paul\Github\example-project-signalr-hub\SignalR.Hubs\obj\Release\netcoreapp2.1\SignalR.Hubs.dll
+E:\Paul\Github\example-project-signalr-hub\SignalR.Hubs\obj\Release\netcoreapp2.1\SignalR.Hubs.pdb

@@ -1,0 +1,16 @@
+E:\Paul\Github\example-project-signalr-hub\SignalR.Api\bin\Release\netcoreapp2.1\SignalR.Api.deps.json
+E:\Paul\Github\example-project-signalr-hub\SignalR.Api\bin\Release\netcoreapp2.1\SignalR.Api.runtimeconfig.json
+E:\Paul\Github\example-project-signalr-hub\SignalR.Api\bin\Release\netcoreapp2.1\SignalR.Api.runtimeconfig.dev.json
+E:\Paul\Github\example-project-signalr-hub\SignalR.Api\bin\Release\netcoreapp2.1\SignalR.Api.dll
+E:\Paul\Github\example-project-signalr-hub\SignalR.Api\bin\Release\netcoreapp2.1\SignalR.Api.pdb
+E:\Paul\Github\example-project-signalr-hub\SignalR.Api\bin\Release\netcoreapp2.1\SignalR.Hubs.dll
+E:\Paul\Github\example-project-signalr-hub\SignalR.Api\bin\Release\netcoreapp2.1\SignalR.Hubs.pdb
+E:\Paul\Github\example-project-signalr-hub\SignalR.Api\obj\Release\netcoreapp2.1\SignalR.Api.csprojResolveAssemblyReference.cache
+E:\Paul\Github\example-project-signalr-hub\SignalR.Api\obj\Release\netcoreapp2.1\SignalR.Api.csproj.CoreCompileInputs.cache
+E:\Paul\Github\example-project-signalr-hub\SignalR.Api\obj\Release\netcoreapp2.1\SignalR.Api.RazorAssemblyInfo.cache
+E:\Paul\Github\example-project-signalr-hub\SignalR.Api\obj\Release\netcoreapp2.1\SignalR.Api.RazorAssemblyInfo.cs
+E:\Paul\Github\example-project-signalr-hub\SignalR.Api\obj\Release\netcoreapp2.1\SignalR.Api.AssemblyInfoInputs.cache
+E:\Paul\Github\example-project-signalr-hub\SignalR.Api\obj\Release\netcoreapp2.1\SignalR.Api.AssemblyInfo.cs
+E:\Paul\Github\example-project-signalr-hub\SignalR.Api\obj\Release\netcoreapp2.1\SignalR.Api.RazorTargetAssemblyInfo.cache
+E:\Paul\Github\example-project-signalr-hub\SignalR.Api\obj\Release\netcoreapp2.1\SignalR.Api.dll
+E:\Paul\Github\example-project-signalr-hub\SignalR.Api\obj\Release\netcoreapp2.1\SignalR.Api.pdb
