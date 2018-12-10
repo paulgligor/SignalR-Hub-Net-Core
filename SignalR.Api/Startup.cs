@@ -26,16 +26,6 @@ namespace SignalR.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            // Cors
-            services.AddCors(o => o.AddPolicy("CorsPolicy", builder =>
-            {
-                builder
-                    .AllowAnyMethod()
-                    .AllowAnyHeader()
-                    .WithOrigins("https://example-project-signalr-client.azurewebsites.net")
-                    .AllowCredentials();
-            }));
-
             // Application services.
             services.AddScoped<IMessagingHub, MessagingHub>();
 
@@ -62,9 +52,17 @@ namespace SignalR.Api
             {
                 //app.UseHsts();
             }
-            app.UseCors("CorsPolicy");
+            app.UseCors(builder =>
+                builder
+                    //.WithOrigins("http://localhost:4200", "https://example-project-signalr-client.azurewebsites.net")
+                    .AllowAnyOrigin()
+                    .AllowAnyMethod()
+                    .AllowAnyHeader()
+                    .AllowCredentials()
+            );
+            //app.UseCors("CorsPolicy");
             //app.UseHttpsRedirection();
-            //app.UseWebSockets();
+            app.UseWebSockets();
             app.UseSignalR(routes =>
             {
                 //slashes must be consistent, no double slashes

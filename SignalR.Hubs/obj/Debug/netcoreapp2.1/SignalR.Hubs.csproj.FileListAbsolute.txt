@@ -19,4 +19,3 @@ E:\Paul\Github\example-project-signalr-hub\SignalR.Hubs\obj\Debug\netcoreapp2.1\
 E:\Paul\Github\example-project-signalr-hub\SignalR.Hubs\obj\Debug\netcoreapp2.1\SignalR.Hubs.AssemblyInfo.cs
 E:\Paul\Github\example-project-signalr-hub\SignalR.Hubs\obj\Debug\netcoreapp2.1\SignalR.Hubs.dll
 E:\Paul\Github\example-project-signalr-hub\SignalR.Hubs\obj\Debug\netcoreapp2.1\SignalR.Hubs.pdb
-E:\Paul\Github\example-project-signalr-hub\SignalR.Hubs\obj\Debug\netcoreapp2.1\SignalR.Hubs.csprojResolveAssemblyReference.cache

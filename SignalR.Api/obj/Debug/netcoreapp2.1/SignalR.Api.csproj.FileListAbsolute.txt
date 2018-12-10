@@ -21,7 +21,6 @@ E:\Paul\Github\example-project-signalr-hub\SignalR.Api\bin\Debug\netcoreapp2.1\S
 E:\Paul\Github\example-project-signalr-hub\SignalR.Api\bin\Debug\netcoreapp2.1\SignalR.Api.pdb
 E:\Paul\Github\example-project-signalr-hub\SignalR.Api\bin\Debug\netcoreapp2.1\SignalR.Hubs.dll
 E:\Paul\Github\example-project-signalr-hub\SignalR.Api\bin\Debug\netcoreapp2.1\SignalR.Hubs.pdb
-E:\Paul\Github\example-project-signalr-hub\SignalR.Api\obj\Debug\netcoreapp2.1\SignalR.Api.csprojResolveAssemblyReference.cache
 E:\Paul\Github\example-project-signalr-hub\SignalR.Api\obj\Debug\netcoreapp2.1\SignalR.Api.csproj.CoreCompileInputs.cache
 E:\Paul\Github\example-project-signalr-hub\SignalR.Api\obj\Debug\netcoreapp2.1\SignalR.Api.RazorAssemblyInfo.cache
 E:\Paul\Github\example-project-signalr-hub\SignalR.Api\obj\Debug\netcoreapp2.1\SignalR.Api.RazorAssemblyInfo.cs
@@ -30,3 +29,4 @@ E:\Paul\Github\example-project-signalr-hub\SignalR.Api\obj\Debug\netcoreapp2.1\S
 E:\Paul\Github\example-project-signalr-hub\SignalR.Api\obj\Debug\netcoreapp2.1\SignalR.Api.RazorTargetAssemblyInfo.cache
 E:\Paul\Github\example-project-signalr-hub\SignalR.Api\obj\Debug\netcoreapp2.1\SignalR.Api.dll
 E:\Paul\Github\example-project-signalr-hub\SignalR.Api\obj\Debug\netcoreapp2.1\SignalR.Api.pdb
+E:\Paul\Github\example-project-signalr-hub\SignalR.Api\obj\Debug\netcoreapp2.1\SignalR.Api.csprojResolveAssemblyReference.cache

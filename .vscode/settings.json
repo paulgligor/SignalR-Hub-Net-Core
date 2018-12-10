@@ -1,4 +1,3 @@
 {
-    "appService.defaultWebAppToDeploy": "/subscriptions/c5267bd1-5db9-4293-9982-72382b14f893/resourceGroups/example-project-signalr-hub/providers/Microsoft.Web/sites/example-project-signalr-hub",
     "appService.deploySubpath": "Publish"
 }
